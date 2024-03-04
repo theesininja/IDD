@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" onmouseup="{ if(window.parent.document.onmouseup) window.parent.document.onmouseup(arguments[0]);}" width="36" viewBox="0 0 36 36" id="S_Landscape_18_N_2x" height="36" data-name="S_Landscape_18_N@2x"><defs><style>
+      .fill {
+        fill: #6e6e6e;
+      }
+
+      
+    </style></defs><circle data-cppathid="10000" r="4" cy="14" cx="18" class="fill"/><path data-cppathid="10001" d="M33,6H3A1,1,0,0,0,2,7V29a1,1,0,0,0,1,1H33a1,1,0,0,0,1-1V7A1,1,0,0,0,33,6ZM32,28H26V24a4,4,0,0,0-4-4H14a4,4,0,0,0-4,4v4H4V8H32Z" class="fill"/></svg>

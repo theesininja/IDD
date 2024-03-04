@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" onmouseup="{ if(window.parent.document.onmouseup) window.parent.document.onmouseup(arguments[0]);}" width="36" viewBox="0 0 36 36" id="S_Comment_18_N_2x" height="36" data-name="S_Comment_18_N@2x"><defs><style>
+      .fill {
+        fill: #707070;
+      }
+
+      
+    </style></defs><path data-cppathid="10000" d="M6,4A4,4,0,0,0,2,8V22a4,4,0,0,0,4,4H8v8.793a.5.5,0,0,0,.854.353L18,26H30a4,4,0,0,0,4-4V8a4,4,0,0,0-4-4Z" class="fill"/></svg>
